@@ -6,4 +6,4 @@ This repository contains a comprehensive monograph on the life cycle of stars, d
 
 You can view the monograph PDF here:
 
-[PDF Document](./stellar-evolution-monograph.pdf)
+[PDF Document](./Monografia___Astronomia_e_Cosmologia.pdf)
